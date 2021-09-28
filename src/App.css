@@ -5,5 +5,9 @@ main {
 }
 
 .emoji {
-  font-size: 6rem;
+  font-size: 12rem;
+}
+
+.slider {
+  width: 100%;
 }
